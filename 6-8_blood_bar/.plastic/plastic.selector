@@ -1,0 +1,4 @@
+repository "6-8 blood bar@wechat_os_qy02ix2ggsyiychquvapxxybs@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
