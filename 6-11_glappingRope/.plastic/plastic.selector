@@ -1,0 +1,4 @@
+repository "6-10 glapping gun@wechat_os_qy02ix2ggsyiychquvapxxybs@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
